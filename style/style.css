@@ -45,4 +45,10 @@
 }
 .wrapper .block .orange {
   font-weight: 900;
+}
+
+.div_items {
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 22px;
 }/*# sourceMappingURL=style.css.map */
